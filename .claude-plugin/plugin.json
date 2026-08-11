@@ -1,0 +1,18 @@
+{
+  "name": "2-pizza-team",
+  "version": "1.0.0",
+  "description": "Static agent skill for team-topology proposals, team resets, and audits of mission, boundaries, interfaces, and operating cycles. Static: no network calls, no remote fetch, no auto-update.",
+  "author": {
+    "name": "Andrew Luxem"
+  },
+  "homepage": "https://github.com/andrewluxem/2-pizza-team",
+  "repository": "https://github.com/andrewluxem/2-pizza-team",
+  "license": "MIT",
+  "keywords": [
+    "agent-skills",
+    "claude-code",
+    "org-design",
+    "skill-md",
+    "team-topology"
+  ]
+}

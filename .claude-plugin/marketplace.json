@@ -1,0 +1,24 @@
+{
+  "name": "2-pizza-team",
+  "version": "1.0.0",
+  "owner": {
+    "name": "Andrew Luxem"
+  },
+  "description": "Static agent skill for team-topology proposals, team resets, and audits of mission, boundaries, interfaces, and operating cycles.",
+  "plugins": [
+    {
+      "name": "2-pizza-team",
+      "version": "1.0.0",
+      "source": "./",
+      "description": "Team Topology Proposal, Team Reset Proposal, Team Topology Audit. Static: no network calls, no remote fetch, no auto-update. Version-pinned.",
+      "category": "productivity",
+      "tags": [
+        "agent-skills",
+        "claude-code",
+        "org-design",
+        "skill-md",
+        "team-topology"
+      ]
+    }
+  ]
+}
